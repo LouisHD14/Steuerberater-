@@ -1,7 +1,9 @@
 
-
 const nextConfig = {
+  output: "export",
+  basePath: "/Steuerberater-",
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",
