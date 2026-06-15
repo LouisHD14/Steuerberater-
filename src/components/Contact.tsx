@@ -100,7 +100,7 @@ export default function Contact({ lang }: ContactProps) {
                     href="mailto:info@kaffka-steuerberatung.de"
                     className="text-forest-700 hover:text-forest-600 transition-colors text-sm"
                   >
-                    info@kaffka-steuerberatung.de
+                    akaffka@gmx.de
                   </a>
                 </div>
               </div>
