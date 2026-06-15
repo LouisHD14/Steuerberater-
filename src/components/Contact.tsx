@@ -109,7 +109,7 @@ export default function Contact({ lang }: ContactProps) {
             {/* Google Maps */}
             <div className="rounded-2xl overflow-hidden border border-gray-100 shadow-sm h-52">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2417.8!2d13.273!3d52.658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sBirkenwerderstra%C3%9Fe+37b%2C+16540+Hohen+Neuendorf!5e0!3m2!1sde!2sde!4v1"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2417.8!2d13.273!3d52.658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sBirkenwerderstr.+37b%2C+16562+Hohen+Neuendorf!5e0!3m2!1sde!2sde!4v1"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

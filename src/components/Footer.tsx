@@ -44,8 +44,8 @@ export default function Footer({ lang }: FooterProps) {
               {lang === "de" ? "Kanzlei" : "Office"}
             </p>
             <address className="not-italic text-white/60 text-sm leading-relaxed space-y-1">
-              <p>Birkenwerderstraße 37 B</p>
-              <p>16540 Hohen Neuendorf</p>
+              <p>Birkenwerderstr. 37b</p>
+              <p>16562 Hohen Neuendorf</p>
               <p className="pt-2">
                 <a href="tel:0330321830" className="hover:text-white transition-colors">
                   Tel: 03303 218300

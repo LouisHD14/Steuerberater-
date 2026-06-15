@@ -117,7 +117,7 @@ export const translations = {
         privacy: "Ihre Daten werden vertraulich behandelt und nicht weitergegeben.",
       },
       info: {
-        address: "Birkenwerderstraße 37 B\n16540 Hohen Neuendorf (Bergfelde)",
+        address: "Birkenwerderstr. 37b\n16562 Hohen Neuendorf",
         phone: "03303 218300",
         hours: "Mo–Fr: 9:00–17:00 Uhr\nTermine auch außerhalb auf Anfrage",
       },
@@ -244,7 +244,7 @@ export const translations = {
         privacy: "Your data is treated confidentially and will not be shared.",
       },
       info: {
-        address: "Birkenwerderstraße 37 B\n16540 Hohen Neuendorf (Bergfelde)",
+        address: "Birkenwerderstr. 37b\n16562 Hohen Neuendorf",
         phone: "03303 218300",
         hours: "Mon–Fri: 9:00–17:00\nAppointments outside these hours on request",
       },
